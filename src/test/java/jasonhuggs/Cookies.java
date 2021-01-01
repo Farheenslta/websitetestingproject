@@ -21,6 +21,7 @@ public class Cookies
 		//delete all cookies
 		driver.manage().deleteAllCookies();
 		//open site
+		
 		driver.get("https://www.google.com");
 		WebDriverWait w=new WebDriverWait(driver, 20);
 		w.until(ExpectedConditions.visibilityOfElementLocated(By.name("q")));
