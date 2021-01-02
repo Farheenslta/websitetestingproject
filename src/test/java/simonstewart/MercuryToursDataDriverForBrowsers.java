@@ -1,4 +1,4 @@
-package jasonhuggs;
+package simonstewart;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

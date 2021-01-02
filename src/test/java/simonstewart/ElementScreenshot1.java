@@ -1,4 +1,4 @@
-package jasonhuggs;
+package simonstewart;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
